@@ -17,4 +17,8 @@ Part 4: Optimising the training using ModelCheckpoint, EarlyStopping, ReduceLROn
 
 Part 5: Test the model
 
+## Dataset
+
+[Dataset](https://drive.google.com/file/d/1sQVIlpLKbZz1SBHwXNlPWc9zx2E7ZCEN/view?usp=sharing)
+
 
